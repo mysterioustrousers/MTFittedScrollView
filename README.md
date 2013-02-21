@@ -52,7 +52,7 @@ Make sure you clone this repo and try out the demo app so you can see how it wor
 
 ## Notes
 
-Autolayout has some pretty nasty bugs with scrollviews, I had trouble getting any scrollviews to work with autolayout.
+Autolayout has some pretty nasty bugs with scrollviews. If you're trying to do fancy stuff with scrollviews & auto layout, have fun. ...Then file a bug with Apple.
 
 ## Author
 
