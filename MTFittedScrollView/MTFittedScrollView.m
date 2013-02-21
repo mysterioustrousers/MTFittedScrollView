@@ -9,7 +9,7 @@
 #import "MTFittedScrollView.h"
 
 @interface MTFittedScrollView ()
-@property (weak, nonatomic) id<UIScrollViewDelegate> proxyDelegate;
+@property (unsafe_unretained, nonatomic) id<UIScrollViewDelegate> proxyDelegate;
 @end
 
 
